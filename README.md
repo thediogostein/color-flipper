@@ -1,1 +1,1 @@
-# color-flipper
+# A color flipper
